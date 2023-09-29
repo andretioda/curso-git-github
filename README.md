@@ -1,2 +1,2 @@
-# curso-git-github
- curso-git-github
+# Curso de Git e Github
+ Professor Gustavo Guanabara
